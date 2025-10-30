@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "@fontsource/poppins";
+
+
+body {
+  @apply font-sans text-gray-800;
+}
